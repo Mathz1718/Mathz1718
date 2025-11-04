@@ -3,7 +3,7 @@
 ##
 
 <p align="center">
-  Olá, meu nome é <strong>Matheus</strong>, tenho 19 anos e estou iniciando minha trajetória na área de <strong>T.I</strong>, aprendendo novas tecnologias. Acredito que a programação vai além de escrever código; trata-se de <strong>solucionar problemas</strong> e <strong>criar soluções eficientes</strong>.
+  Olá, meu nome é <strong>Matheus</strong>, tenho 20 anos e estou iniciando minha trajetória na área de <strong>T.I</strong>, aprendendo novas tecnologias. Acredito que a programação vai além de escrever código; trata-se de <strong>solucionar problemas</strong> e <strong>criar soluções eficientes</strong>.
 </p>
 
 <p align="center">
